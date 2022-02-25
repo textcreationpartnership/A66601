@@ -1,0 +1,276 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A seasonable question, in a sermon on Joshua 5.13 preacht on the 18th of June at Kingsnoth ... and on the 27th of July at St. Peters Cornhill, London, by Timothy Wilson ...</title>
+            <author>Wilson, Timothy, 1642-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66601</idno>
+            <idno type="STC">Wing W2951</idno>
+            <idno type="STC">ESTC R38145</idno>
+            <idno type="EEBO-CITATION">17197232</idno>
+            <idno type="OCLC">ocm 17197232</idno>
+            <idno type="VID">106174</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66601)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106174)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1624:58)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A seasonable question, in a sermon on Joshua 5.13 preacht on the 18th of June at Kingsnoth ... and on the 27th of July at St. Peters Cornhill, London, by Timothy Wilson ...</title>
+                  <author>Wilson, Timothy, 1642-1705.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.S. for Tho. Parkhust ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Joshua V, 13 --  Sermons.</term>
+               <term>Anti-Catholicism --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106174:1" rendition="simple:additions"/>
+            <p>A Seaſonable QUESTION, IN A SERMON On <q>
+                  <bibl>
+                     <hi>Joſhua 5.13.</hi>
+                  </bibl> —Art thou for us, or for our Adverſaries?</q> Preacht on the 18th of <hi>June</hi> at <hi>Kingſnoth,</hi> being the Publick Faſt: And on the 27th of <hi>July</hi> at St. <hi>Peters Cornhill, London.</hi> By <hi>Timothy Wilſon,</hi> M. A. and Rector of <hi>Kingſnoth</hi> in <hi>Kent.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T.S.</hi> for <hi>Tho. Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns,</hi> at the lower end of <hi>Cheapſide,</hi> near <hi>Mercers Chapel.</hi> 1690.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:106174:2"/>
+            <pb facs="tcp:106174:2"/>
+            <head>TO THE READER.</head>
+            <p>I Was importuned by ſome Friends and Relations, to publiſh this plain Sermon, which was heard with general ſatisfaction in the Country: but then I could not be prevailed with to tranſcribe a Copy for the Preſs. However ſince a good Providence (as I hope) and buſi<g ref="char:EOLhyphen"/>neſs of importance hath called me to <hi>London,</hi> I, not loving to be wholly idle, reſolved to Preach this Country Faſt Sermon, hoping that it might be very ſeaſonable, and meet with as much acceptance here, as it did in my Neighbourhood. But ſome Auditors I had full of pre<g ref="char:EOLhyphen"/>judice, and the diſcourſe was variouſly received. This was the lot of our Bleſſed Saviour. <hi>Some ſaid, he was a good man: others ſaid, nay, but he deceiveth the People.</hi> I can ſay with St. <hi>Paul, Men and Bre<g ref="char:EOLhyphen"/>thren, I have lived in all good Conſcience be<g ref="char:EOLhyphen"/>fore God until this day,</hi> Act. <hi>23.1.</hi> I never be<g ref="char:EOLhyphen"/>lieved the Divine Right of any one Form of Government
+<pb facs="tcp:106174:3"/>antecedent to agreement, but I always thought the obli<g ref="char:EOLhyphen"/>gation of Conſcience was conſequent to it. And accord<g ref="char:EOLhyphen"/>ingly I have Juſtified Self-defence and Self-preſervation, againſt Illegal and Univerſal Oppreſsion in diſcourſes publiſhed ſome months ago. So that I am moſt zealous for the preſent Government of King <hi>William</hi> and Queen <hi>Mary.</hi> And I make it my buſineſs to convince and confirm all my fellow Subjects, as I have opportu<g ref="char:EOLhyphen"/>nity. But this Sermon is practical, and in all things fitted to the meaneſt capacity. And I never intended that it ſhould ſee the light but becauſe it is thought that it may do ſome good, I have conſented to publiſh it. I live a retired life, and my Nighbours are well con<g ref="char:EOLhyphen"/>tented, living peacably, Worſhipping God in one place, and Honouring King <hi>William</hi> and Queen <hi>Mary.</hi> But when I come abroad in the World, I find great Animo<g ref="char:EOLhyphen"/>ſities and Prejudices: whereas I think, that though we cannot be all of one Opinion in ſmaller matters, yet true Proteſtants ſhould heartily unite againſt Popery and Slavery. Good Chriſtian Reader, if thou haſt any ſcruples, I make no Queſtion but that thou mayſt receive ſatisfaction, if thou wilt calmly diſpute the caſe, I am at thy ſervice in this work,</p>
+            <closer>
+               <signed>Tim. Wilſon.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:106174:3"/>
+            <epigraph>
+               <q>
+                  <bibl>JOSH. 5.13.</bibl>
+                  <p>Theſe words of the Verſe, <hi>Art thou for us, or for our Adverſa<g ref="char:EOLhyphen"/>ries?</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>FTER the Death of <hi>Moſes</hi> the Servant of the Lord, <hi>Jo<g ref="char:EOLhyphen"/>ſhua</hi> was made Captain of Gods <hi>Iſrael.</hi> He was a De<g ref="char:EOLhyphen"/>vout Man, and a good Soul<g ref="char:EOLhyphen"/>dier; full of Faith, and full of Courage. <hi>And God magnified</hi> Joſhua <hi>in the ſight of all</hi> Iſrael, <hi>and they feared him, as they feared</hi> Moſes, <hi>all the days of his life, chap.</hi> 4. <hi>ver.</hi> 14. He led Gods people <hi>Iſrael</hi> over <hi>Jordan,</hi> as <hi>Moſes</hi> did over the Red Sea; and he brought them to the Borders of <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi>
+               <pb n="2" facs="tcp:106174:4"/>their promiſed Inheritance and Poſ<g ref="char:EOLhyphen"/>ſeſſion. This made the Kings of the <hi>Amo<g ref="char:EOLhyphen"/>rites,</hi> and the Kings of the <hi>Canaanites</hi> trem<g ref="char:EOLhyphen"/>ble. <hi>Their Hearts melted, neither was there Spirit in them any more, ver.</hi> 1. of this Chap<g ref="char:EOLhyphen"/>ter of our Text. In his Travels, <hi>Joſhua</hi> had <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaw a Viſion or Apparition; <hi>And it came to paſs, when</hi> Joſhua <hi>was by</hi> Jericho, <hi>that he lift up his Eyes, and looked, and be<g ref="char:EOLhyphen"/>hold there ſtood a Man over againſt him, with his Sword drawn in his Hand; and</hi> Joſhua <hi>went unto him, and ſaid unto him, Art thou for us, or for our Adverſaries?</hi>
+            </p>
+            <p>
+               <hi>Joſhua</hi> ſaw one Man, or Angel, and he asked him this queſtion. And if I were a Preacher to all <hi>England</hi> this day, I would ask them the ſame queſtion, Art thou for us, or for our Adverſaries?</p>
+            <p>The words are a queſtion propoſed by <hi>Joſhua</hi> to the Angel, or Perſon that appear<g ref="char:EOLhyphen"/>ed to him.</p>
+            <pb n="3" facs="tcp:106174:4"/>
+            <p>For the Illuſtration and Exemplification whereof, I ſhall conſider theſe things.</p>
+            <list>
+               <item>1. Who the Us are.</item>
+               <item>2. Who our Adverſaries are.</item>
+               <item>3. I ſhall give you the Reaſons, why all good Men ſhould be for us.</item>
+               <item>4. Why all good Men ſhould be againſt our Adverſaries.</item>
+            </list>
+            <p>And ſo proceed to a ſhort Parallel and Ap<g ref="char:EOLhyphen"/>plication to our ſelves.</p>
+            <p n="1">1. I ſhall conſider who the Us are. They were <hi>Joſhua,</hi> and the Children of <hi>Iſrael,</hi> and by parity of Reaſon, all ſuch as <hi>Joſhua</hi> and the Children of <hi>Iſrael</hi> were. And I ſhall give you their Character in theſe five Par<g ref="char:EOLhyphen"/>ticulars.</p>
+            <list>
+               <item>1. They were <hi>Jews,</hi> Gods People, and in Covenant with him.</item>
+               <item>2. They maintained Gods true Religion.</item>
+               <item>3. They were oppreſſed wicked Men.</item>
+               <pb n="4" facs="tcp:106174:5"/>
+               <item>4. They defended themſelves againſt their Oppreſſors.</item>
+               <item>5. They had Gods Promiſe for Deliver<g ref="char:EOLhyphen"/>ance, and believed in him.</item>
+            </list>
+            <p n="1">1. They were <hi>Jews,</hi> Gods people, and in Covenant with him. They were the Seed of <hi>Abraham,</hi> the Friend of God, and only Viſible Church of God upon Earth. And God was the God of their Fathers, <hi>the God of</hi> Abraham, <hi>the God of</hi> Iſaac, <hi>and the God of</hi> Jacob, <hi>Exod.</hi> 3.6. and <hi>Deut.</hi> 28. and 9 <hi>The Lord ſhall eſtabliſh thee an holy people unto himſelf, as he hath ſworn unto thee, if thou ſhalt keep the Commandments of the Lord thy God, and walk in his Ways; and all people of the Earth ſhall ſee, that thou art called by the Name of the Lord, and they ſhall be afraid of thee,</hi> &amp;c. There is an Holy Covenant be<g ref="char:EOLhyphen"/>tween God and his People. That is the firſt Character.</p>
+            <p n="2">2. They maintained Gods true Religion. Art thou for us, who are the true Worſhip<g ref="char:EOLhyphen"/>pers of God? Gods Glory and his Name
+<pb n="5" facs="tcp:106174:5"/>was celebrated among the <hi>Iſraelites,</hi> and they ſerved the Lord; <hi>Ye ſhall ſerve the Lord your God,</hi> (ſaith <hi>Moſes,</hi> Exod 23.25.) <hi>and he ſhall bleſs thy Bread and thy Water and I will take ſickneſs away from the midſt of thee.</hi> They Worſhipped neither the Idols which the corrupt World had before the Flood, nor thoſe Idols which other Nations Wor<g ref="char:EOLhyphen"/>ſhipped ſince the Flood; but they Worſhip<g ref="char:EOLhyphen"/>ped the God of <hi>Iſrael</hi> only, and made no Covenant with the Heathen. See <hi>Exod.</hi> 34.14. That is the ſecond Character.</p>
+            <p n="3">3. They were oppreſſed by wicked men. After the Death of <hi>Joſeph,</hi> there aroſe a King who hated Gods people, and reſolved to ruine them, or keep them under, and make them Slaves, <hi>Exod.</hi> 1.8, <hi>&amp;c.</hi> He feared their Numbers and Strength, and he con<g ref="char:EOLhyphen"/>ſulted with his Favourites to deal ſubtilly with them. At firſt he commanded all their Male-Children to be ſlain as ſoon as they were Born; a moſt Barbarous and Cruel E<g ref="char:EOLhyphen"/>dict! And he ſet over them Task-maſters, to afflict them with their Burthens; and they
+<pb n="6" facs="tcp:106174:6"/>made the Children of <hi>Iſrael</hi> to ſerve with ri<g ref="char:EOLhyphen"/>gour, and they made their Lives bitter with hard Bondage; and many Devices they had to keep under and enſlave the poor <hi>Iſraelites.</hi> But God ſaw the Affliction of his people, and heard their cry, by reaſon of their Task<g ref="char:EOLhyphen"/>maſters, and knew their ſorrows; and he ſaw the Oppreſſion, wherewith the <hi>Egypti<g ref="char:EOLhyphen"/>ans</hi> oppreſſed them; and, <hi>Exod.</hi> 3.8. He came down and delivered them out of the Hand of the <hi>Egyptians,</hi> and reſolved to bring them up out of that Land, unto a good Land, and a large, unto a Land flowing with Milk and Honey, unto the place of the <hi>Canaanites,</hi> &amp;c. That is the third Cha<g ref="char:EOLhyphen"/>racter.</p>
+            <p n="4">4. They defended themſelves againſt their Oppreſſors. The <hi>Iſraelites</hi> War was plainly defenſive againſt <hi>Pharaoh</hi> King of <hi>Egypt,</hi> though he pleaded that they had been his Subjects, with the preſcription of above four hundred years. As ſoon as Gods time for Deliverance came, <hi>Moſes</hi> and the Elders of <hi>Iſrael</hi> went to the King of <hi>Egypt,</hi> Exod. 3.18.
+<pb n="7" facs="tcp:106174:6"/>and demanded leave to ſacrifice to the God of <hi>Iſrael.</hi> They would have Freedom of Religion, and Liberty to ſerve God, and live no longer under the oppreſſion of <hi>Pha<g ref="char:EOLhyphen"/>raoh.</hi> This provoked <hi>Pharaoh</hi> to wrath, and made him Blaſpheme the God of <hi>Iſrael; Who is the Lord, that I ſhould obey his voice, to let</hi> Iſrael <hi>go? I know not the Lord, neither will I let</hi> Iſrael <hi>go,</hi> Exod. 5.2. And inſtead of eaſing their Grievances, he impoſed more heavy Burthens, requiring Brick, and not al<g ref="char:EOLhyphen"/>lowing Straw, and puniſhed them for not performing what was impoſſible to be done. They make their complaint, as of a thing unreaſonable, and againſt the Law of Na<g ref="char:EOLhyphen"/>ture, but they could have no redreſs; for <hi>Pharaoh</hi> was reſolved to oppreſs and ſuppreſs them, if he could. He calls all their pre<g ref="char:EOLhyphen"/>tences but idleneſs, and to Sacrifice to the Lord was but the effect of their lazineſs. Thus are wicked Oppreſſors, whom God hath determined to deſtroy, deaf to all com<g ref="char:EOLhyphen"/>plaints, though never ſo juſt and reaſonable That is the fourth Character.</p>
+            <pb n="8" facs="tcp:106174:7"/>
+            <p n="5">5. They had Gods promiſe for deliver<g ref="char:EOLhyphen"/>ance, and believed in him. Gods Promiſe they had, <hi>Exod.</hi> 6.3, <hi>&amp;c.</hi> where you may ſee a full and plain Promiſe of God to deli<g ref="char:EOLhyphen"/>ver <hi>Iſrael,</hi> to bleſs them, and to ſettle them in <hi>Canaan</hi> the Promiſed Land. It is true, ma<g ref="char:EOLhyphen"/>ny of the Children of <hi>Iſrael</hi> had not Faith to believe this, <hi>they hearkened not to</hi> Moſes <hi>for anguiſh of Spirit, and for cruel Bondage,</hi> v. 9. But no doubt moſt of the <hi>Iſraelites</hi> adhered to <hi>Moſes</hi> in this cauſe, and had Faith to be<g ref="char:EOLhyphen"/>lieve that God would perform his Promiſe; and the moſt unbelieving, when they ſaw Gods mighty Works, were forced to con<g ref="char:EOLhyphen"/>feſs, that the God of <hi>Iſrael</hi> was moſt power<g ref="char:EOLhyphen"/>ful. That is the fifth and laſt Character.</p>
+            <p n="2">2. I ſhall conſider who our Adverſaries are. The Adverſaries of <hi>Joſhua</hi> and the <hi>Iſ<g ref="char:EOLhyphen"/>raelites,</hi> were divers people of <hi>Canann,</hi> all Heathens and Idolaters; a corrupt Genera<g ref="char:EOLhyphen"/>tion, whoſe iniquities were full; wicked and prophane, and God had decreed to deſtroy them.</p>
+            <pb n="9" facs="tcp:106174:7"/>
+            <list>
+               <item>1. They were Idolaters.</item>
+               <item>2. They were guilty of heinous Sins.</item>
+               <item>3. They were appointed by God to utter Ruin and Deſtruction for their Sins.</item>
+            </list>
+            <p n="1">1. The Adverſaries were Idolaters; they forſook the true God, Creator and Poſſeſſor of Heaven and Earth, and Worſhipped Idols, the Work of their own Hands: They chang<g ref="char:EOLhyphen"/>ed the Glory of the uncorruptible God into an Image made like to corruptible Man, and changed the Truth of God into a Lie, and Worſhipped and Served the Creature more than the Creator, who is bleſſed for ever, <hi>Amen,</hi> as St. <hi>Paul</hi> ſpeaks, <hi>Rom</hi> 1.23, 25. Hence God forbids his people <hi>Iſrael</hi> making Images, <hi>Levit.</hi> 26.1. and nothing provoked the Lord to anger more, than when his peo<g ref="char:EOLhyphen"/>ple <hi>Iſrael</hi> revolted to Idolatry, either that of the <hi>Egyptians,</hi> or that of the <hi>Moabites.</hi> As for that of the <hi>Egyptians,</hi> we read <hi>Exod.</hi> 32. that God was incenſed by the Worſhippers of the Golden Calf, the <hi>Egyptian</hi> Idol; and threatned to conſume them, had not <hi>Moſes</hi>
+               <pb n="10" facs="tcp:106174:8"/>interceeded and prayed earneſtly. As for that of the <hi>Moabites,</hi> we read <hi>Numb.</hi> 25. that the anger of the Lord was kindled againſt <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> becauſe they Sacrificed and Bowed down to their Gods. God ſent a Plague a<g ref="char:EOLhyphen"/>mong them, in which died four and twenty thouſand, becauſe they joined themſelves to <hi>Baal Peor,</hi> which ſome ſay was the Beaſtly Heatheniſh God <hi>Priapus;</hi> a moſt lewd and abominable Idol, abhorred by the very Hea<g ref="char:EOLhyphen"/>thens, who had any ſenſe of Goodneſs, or ſparks of Vertue and Morality left.</p>
+            <p n="2">2. They were guilty of heinous Sins. Be<g ref="char:EOLhyphen"/>ſides their Idolatry, Prophaneneſs, Superſti<g ref="char:EOLhyphen"/>tion, falſe Worſhip, blaſphemy, and the like Sins, directly againſt God, and the Duties of the firſt Table of the Decalogue, they a<g ref="char:EOLhyphen"/>bounded with notorious Vices forbidden in the ſecond Table, and directly againſt their Neighbour. They ſtand accuſed of all Un<g ref="char:EOLhyphen"/>righteouſneſs, Malice, Drunkenneſs, Mur<g ref="char:EOLhyphen"/>der, and eſpecially of Whoredom, and all manner of Uncleanneſs, even Sodomy it ſelf not excepted. They were ſinful, yea a people
+<pb n="11" facs="tcp:106174:8"/>laden with iniquity, and a Seed of evil doers, who ſinned againſt Natural Light and Know<g ref="char:EOLhyphen"/>ledge. But I ſhall not deſcant on particulars at this time.</p>
+            <p n="3">3. The Adverſaries were appointed by God to utter Ruin and Deſtruction, for their ſins. Their iniquities were full, and God had fully reſolved to root them out. Thus we read, <hi>Levit.</hi> 18.25. <hi>The Land is defiled (i.e.</hi> by lewdneſs and wickedneſs) <hi>therefore I do viſit the iniquity thereof upon it, and the Land it ſelf vomits out her Inhabitants.</hi> Heinous ſins defile a Land, and, as it is at the 28<hi>th</hi> verſe, make a Land ſpew out the Inha<g ref="char:EOLhyphen"/>bitants; ſo <hi>Levit.</hi> 20.22. the ſame phraſe is uſed; and <hi>ver.</hi> 23. God ſays that he abhors them for their moſt grievous wickedneſs. Great Sins bring great Plagues, and Tempo<g ref="char:EOLhyphen"/>ral as well as Eternal Judgments on a Nation. It is true, God promiſed <hi>Abraham</hi> to make a Nation of him, that Kings ſhould come out of him, <hi>Gen.</hi> 17.6. and to eſtabliſh his Cove<g ref="char:EOLhyphen"/>nant with him, and his Seed after him in their Generations; and to give them all the Land
+<pb n="12" facs="tcp:106174:9"/>of <hi>Canaan</hi> for an Everlaſting Poſſeſſion; but they were to be Pilgrims, and go down into <hi>Egypt</hi> for four hundred and thirty years, till the iniquities of the <hi>Amorites</hi> were full: For Gods Promiſes and his Judgments are all conditional, God deſtroys not innocent Crea<g ref="char:EOLhyphen"/>tures. If the <hi>Canaanites</hi> had not done evil in his ſight, and lived in all manner of pro<g ref="char:EOLhyphen"/>phaneneſs and wickedneſs, they ſhould not have been deſtroyed If <hi>England</hi> reforms their evil ways, they ſhall be ſaved: For God de<g ref="char:EOLhyphen"/>crees miſery only to the Impenitent.</p>
+            <p>I ſhall give you the Reaſons why all good Men ſhould be for us, which is the third par<g ref="char:EOLhyphen"/>ticular in the Method propounded. The Reaſons may be taken,
+<list>
+                  <item>1. From our ſelves.</item>
+                  <item>2. From the Cauſe it ſelf.</item>
+                  <item>3. From God himſelf.</item>
+                  <item>4. From the Examples of the moſt wiſe and devout Proteſtants whom we follow.</item>
+               </list>
+            </p>
+            <p n="1">1. From our ſelves. We deſire to live in
+<pb n="13" facs="tcp:106174:9"/>all good Conſcience towards God and Men We deſire nothing but what Laws and Liber<g ref="char:EOLhyphen"/>ties our Forefathers left us. We invaded no Mans right, but ſtudied to live quietly, and do our own buſineſs. Our Actions were good and lawful; but our Enemies triumphed, and without Law or Reaſon ſought our ruin. Our preſent Sufferings were great, and we were threatened with greater, and all this without our deſert or offence. We were enſlaved by Jeſuits, evil councellors and Unreaſonable Men. Our Liberties, or Religion, our E<g ref="char:EOLhyphen"/>ſtates were almoſt gone; we ſcarce knew what was our own. We had a ſtanding Army in time of peace, without conſent and againſt the Petition of Parliament, to over-awe us. Our Biſhops were ſome Suſpended, and ſome Im<g ref="char:EOLhyphen"/>priſoned, and our moſt Learned Doctors, and moſt Zealous Preachers againſt Popiſh Inno<g ref="char:EOLhyphen"/>vations and Arbitrary Power, were cenſured and diſcountenanced. We had an Illegal De<g ref="char:EOLhyphen"/>claration to be read in Churches, impoſed on the whole Clergy. Our Nobility and Gentry were cloſeted and threatened, and almoſt all our Corporations new modelled and chang<g ref="char:EOLhyphen"/>ed,
+<pb n="14" facs="tcp:106174:10"/>in order to gain a Parliament that ſhould promote the ruin of us and our Religion. E<g ref="char:EOLhyphen"/>very Man that departed from evil made him<g ref="char:EOLhyphen"/>ſelf a prey. Superſtition, Oppreſſion, Cruelty, prevailed throughout the Land; The whole Kingdom was filled with Complaints, and Sighs, and Groans, by reaſon of their cruel Bondage; the Vileſt Men were exalted; and Men of Fidelity to God and their Countrey, and Loyalty to the King and Kingdom, and Religion by Law Eſtabliſhed, Spirits of Ho<g ref="char:EOLhyphen"/>neſty, Spirits of Courage, were caſt out as filth; yea Diſſenters, and the poor deluded Sectaries were bribed with a pretended Li<g ref="char:EOLhyphen"/>berty of Conſcience, to help to ruin us firſt and themſelves afterwards.</p>
+            <p>Now when we knew no means of help, but lay down under our Burden, and were as a Kingdom devoted to miſery; then did the Lord appear in a glorious manner, and be<g ref="char:EOLhyphen"/>yond all our expectations ſent the Prince of <hi>Orange,</hi> now our Gracious Soveraign, our De<g ref="char:EOLhyphen"/>liverer from Popiſh Tyranny; wherefore I ſay, that we are moſt ungrateful, if we do
+<pb n="15" facs="tcp:106174:10"/>not ſtand by him with our Lives and For<g ref="char:EOLhyphen"/>tunes. There was a great and long plotted deſign, whereby Popery ſhould have been re<g ref="char:EOLhyphen"/>advanced, Gods ſaving Truth been ſuppreſ<g ref="char:EOLhyphen"/>ſed, his Worſhip ſubſtantially corrupted and utterly deſtroyed; and it was a work of a large Extent, as that which concerns all other Reformed Churches, whoſe happineſs or mi<g ref="char:EOLhyphen"/>ſery will be involved in ours. Yea Ages to come will have Reaſon, either to bleſs or curſe this Generation, as we ſhall follow or neglect this preſent opportunity; ſo then if we be asked a Reaſon of our joining with K. <hi>William</hi> in this Reſolution, here are Reaſons, clear Reaſons, eaſie to the weakeſt underſtand<g ref="char:EOLhyphen"/>ings, yea open to every Mans ſenſe. Who a<g ref="char:EOLhyphen"/>mong us hath not felt theſe Reaſons? To uſe the words of a grave Divine in the like caſe. And as theſe Reaſons are ſo plain, that the moſt illiterate and vulgar underſtanding may conceive them, ſo they are ſo weighty and cogent, that the moſt ſubtile and ſublime un<g ref="char:EOLhyphen"/>derſtanding cannot but be ſubdued to them; unleſs becauſe they are ſuch Maſters of Rea<g ref="char:EOLhyphen"/>ſon, they have reſolved to obey none. And
+<pb n="16" facs="tcp:106174:11"/>yet where Conſcience is yet indeed unſatisfi<g ref="char:EOLhyphen"/>ed, we ſhould rather pity than impoſe and la<g ref="char:EOLhyphen"/>bour to perſwade rather than violently to ob<g ref="char:EOLhyphen"/>trude. But as for others, as St. <hi>Paul</hi> ſays, <hi>O fooliſh</hi> Galatians! <hi>who hath bewitched you, that you ſhould not obey the truth?</hi> Gal. 3.1. ſo I may ſay, O fooliſh <hi>Engliſhmen!</hi> who hath be<g ref="char:EOLhyphen"/>witched you, that, when you may have your Religion, your Laws and your Liberties ſe<g ref="char:EOLhyphen"/>cured; you Plot and Conſpire, or at leaſt wiſh well to the <hi>French</hi> Enemy?</p>
+            <p n="2">2. From the Cauſe it ſelf. We ſtand up for our Religion, the true Worſhip and Service of God, which is Eſtabliſhed by Law, and is our Birthright and greateſt Happineſs. We ſtand up for our Laws, Liberties and Proper<g ref="char:EOLhyphen"/>ties, which have all been diſpenſed with by Covetous and Ambitious Spirits, and Men not fearing God, nor loving the welfare of their Native Country. And we were in danger to be ruined, and our Poſterity after us, by corrupt Judges, who loved Bribes more than Judgment, and the wages of Unrighteouſ<g ref="char:EOLhyphen"/>neſs more than Truth.</p>
+            <pb n="17" facs="tcp:106174:11"/>
+            <p n="3">3. From God himſelf. We truſt that it is Gods Cauſe, and that God is on our ſide; And if God be for us, who can be againſt us? It was a notable Speech, as I have read, that <hi>Joſephus</hi> reports <hi>Herod</hi> made to his Souldiers; it came from the Mouth of a <hi>Herod,</hi> but it well beſeems the Mouth of a moſt godly Chriſtian Captain. Some may ſay, ſaith he, our Cauſe is juſt, but we are few and weak; but where Truth and Juſtice is, there is God; and where God is, there wants neither mul<g ref="char:EOLhyphen"/>titude nor fortitude. I hope all good Men will have their Eyes opened, and heartily join with us. God was with <hi>Joſhua</hi> and his Hoſts, and I truſt that he will continue to be with our Proteſtant King and his Armies. The An<g ref="char:EOLhyphen"/>gel, or Chriſt himſelf (as ſome Expoſitors think it was) tells <hi>Joſhua,</hi> As Captain or Prince of the Hoſt of the Lord am I now come, <hi>ver.</hi> 14. <hi>Moſes</hi> ſays, <hi>Deut.</hi> 20.3. that the Prieſts ought to encourage the people; and <hi>ver.</hi> 4. he ſaith, The Lord your God is he that goes with you, to Fight for you againſt your Ene<g ref="char:EOLhyphen"/>mies, to ſave you.</p>
+            <pb n="18" facs="tcp:106174:12"/>
+            <p>And in God more eſpecially, let us conſi<g ref="char:EOLhyphen"/>der theſe three things;
+<list>
+                  <item>1. His Wiſdom.</item>
+                  <item>2. His Power.</item>
+                  <item>3. His Promiſe.</item>
+               </list>
+            </p>
+            <p n="1">1. His Wiſdom, whereby God foreſees what is beſt. He hath many ways to help his Servants, in their fears, of which they are ig<g ref="char:EOLhyphen"/>norant. The Lord is Great in Counſel, and Mighty in Working, ſaith the Prophet, <hi>Jer.</hi> 32.19. He can turn the Enemies Counſel in<g ref="char:EOLhyphen"/>to Fooliſhneſs, and defeat them, as he did <hi>A<g ref="char:EOLhyphen"/>chitophel</hi>'s. He can Counter plot their Plots, and make their Devices of none effect. When <hi>Pharaoh</hi> dealt ſubtilly, God was above him.</p>
+            <p n="2">2. His Power, whereby he is able to effect what is beſt. All things are poſſible to him. His Eyes are ever towards the Righteous, and he ſhews himſelf ſtrong in the behalf of them that fear him. He can weaken their Power, a<g ref="char:EOLhyphen"/>bate their Pride, defeat their Policies, and
+<pb n="19" facs="tcp:106174:12"/>turn their Proſperity into Miſery. He had power to drown the old wicked World, when the Earth was corrupt and full of violence. He Rained down Fire and Brimſtone upon <hi>Sodom</hi> and <hi>Gomorrah,</hi> to refine thoſe impure places, and reſcued Righteous <hi>Lot</hi> from that overthrow. He drowned <hi>Pharaoh</hi> and his Hoſt in the Red Sea.</p>
+            <p n="3">3. His Promiſe. If we <hi>obey his voice, he will be an Enemy to our Enemies, and an Adverſary to our Adverſaries,</hi> Exod. 23.22. and <hi>Levit.</hi> 26.3, &amp;c. <hi>If you walk in my Statutes, and keep my Commandments, and do them;</hi> among other Bleſſings this is promiſed, <hi>I will give peace in the Land, and ye ſhall lye down, and none ſhall make you afraid; and ye ſhall Chaſe your Enemies, and they ſhall fall before you by the Sword; and I will walk among you, and will be your God, and ye ſhall be my People.</hi> God promiſed <hi>Abraham,</hi> and conſequently all that do the works of <hi>Abraham; I will bleſs them that bleſs thee, and curſe him that curſeth thee,</hi> Gen. 12.3. Gods Eye is on his <hi>Iſrael,</hi> the falſe Prophet <hi>Balaam,</hi> who loved the wa<g ref="char:EOLhyphen"/>ges
+<pb n="20" facs="tcp:106174:13"/>of unrighteouſneſs, and would have cur<g ref="char:EOLhyphen"/>ſed <hi>Iſrael,</hi> to gain the promotions of the King of <hi>Moab,</hi> was forced to acknowledge this Truth; God had bleſſed them, and he could not reverſe it, <hi>Numb.</hi> 23.20. and ver. 23. <hi>Surely there is no Inchantment againſt</hi> Jacob, <hi>neither is there any Divination againſt</hi> Iſrael. Here is enough to change all Mens Hearts to join with God and his Servants.</p>
+            <p n="4">4. From the Example of the moſt wiſe and devout Proteſtants, whom we follow. We imitate the Glorious Company of the Saints and Martyrs ever ſince the Reformation. They all Zealouſly contended, and ſome e<g ref="char:EOLhyphen"/>ven unto death, for the ſame Truth and Cauſe that we now contend, againſt the In<g ref="char:EOLhyphen"/>novations, Tyranny and Uſurpations of the Pope and all his deteſtable Adherents. <hi>Lu<g ref="char:EOLhyphen"/>ther, Melancthon, Bucer, Calvin, Zuinglius,</hi> and thouſands of our Brethren beyond the Seas, in <hi>Germany, Switzerland, Denmark, Hol<g ref="char:EOLhyphen"/>land,</hi> &amp;c. And in <hi>England,</hi> the Right Reve<g ref="char:EOLhyphen"/>rend Biſhops <hi>Cranmer, Ridley, Hooper,</hi> and other Miniſters of Chriſt, as Mr. <hi>Rogers,</hi>
+               <pb n="21" facs="tcp:106174:13"/>Mr. <hi>Bradford,</hi> Mr. <hi>Philpot,</hi> and many more laid down their Lives for this Truth, and were Burnt at the Stake. Are you for theſe Men, or are you for their Adverſaries? Let no Man or true Proteſtant delude him<g ref="char:EOLhyphen"/>ſelf; for they who Burnt our Forefathers at the Stake as Hereticks, will do ſo to us likewiſe, if they had as much power. It is not want of will, but want of power. I hope all ſound Proteſtants will be wiſe in this their day, and know the things that belong to their Peace, before they be hid from their Eyes. And bleſſed be God, the moſt wiſe Men in Church and State foreſee this. I am not Zealous about Opinions, for the moſt Learned and Holy Men will differ as long as the World remains; but the Truths that I ſpeak of are ſuch as have been Sealed with the Blood of Martyrs, have been juſtified by the moſt Learned Pens, and Diſputes of all the Worthies of this Kingdom, without interruption, for a<g ref="char:EOLhyphen"/>bove an hundred and twenty years; but of late, by a Cunning, Ambitious and Cor<g ref="char:EOLhyphen"/>rupt Party, we had almoſt been Cheated of
+<pb n="22" facs="tcp:106174:14"/>them, even of thoſe Truths which ought to be dearer than our Lives. Bleſſed be God, who hath given a turn (as one ſpeaks) and made a ſtop of their proceed<g ref="char:EOLhyphen"/>ings, who were gone as far as <hi>Rome</hi> Gates in a declining way. Theſe were the Do<g ref="char:EOLhyphen"/>ctrines and Practices of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in its firſt Reformation.</p>
+            <p n="4">4. I ſhall conſider why all good Men ſhould be againſt our Adverſaries.</p>
+            <list>
+               <item>1. Becauſe they are againſt the Truth.</item>
+               <item>2. Becauſe they are Oppreſſors.</item>
+               <item>3. Becauſe they are Enemies to Gods Glory.</item>
+               <item>4. Becauſe they are cruel to Gods people and his Saints.</item>
+            </list>
+            <p n="1">1. Becauſe they are againſt the Truth. The Adverſaries of <hi>Joſhua</hi> and the Children of <hi>Iſrael</hi> were Heatheniſh Idolaters, as I have ſhewed; they hated the true Worſhip<g ref="char:EOLhyphen"/>pers of God; yea they were ſo Barbarous, as to ſuffer their Children to paſs through
+<pb n="23" facs="tcp:106174:14"/>the Fire to <hi>Moloch,</hi> Levit. 18.21. and to pro<g ref="char:EOLhyphen"/>phane the Name of God. <hi>Moloch</hi> was the chief and greateſt Idol, the God of the <hi>Ammonites.</hi> Some ſay it was the Heathen <hi>Saturn,</hi> to whom only almoſt, among the Gods, they Sacrificed Humane Victims, as I find in the Author of the <hi>Synopſis.</hi> Others conjecture otherwiſe, that it was <hi>Jupiter,</hi> or <hi>Priapus,</hi> or <hi>Mercurius,</hi> or <hi>Mars;</hi> whatever it was, it is no great matter, it was Devil-worſhip, and made the Heathens abhor<g ref="char:EOLhyphen"/>red and puniſhed by God.</p>
+            <p n="2">2. Becauſe they are Oppreſſors. God ſaw the Oppreſſion of <hi>Iſrael,</hi> wherewith the <hi>Egyptians</hi> op<g ref="char:EOLhyphen"/>preſſed them, <hi>Exod.</hi> 3.9. and he delivered them. In all their Affliction he was Afflicted, and the Angel of his preſence ſaved them. God bates Oppreſſion, and will puniſh all that oppreſs his People, <hi>Jer.</hi> 30.20. He reproves them that oppreſs the poor, and cruſh the needy, <hi>Amos</hi> 4.1. He denounces woes againſt them that covet Fields, and take them by Violence, and Houſes, and take them away: So they oppreſs a Man and his Houſe, even a Man and his Heritage, ſaith the Prophet, <hi>Mic.</hi> 2.2. and God hath promiſed that he will
+<pb n="24" facs="tcp:106174:15"/>be a refuge for the oppreſſed, a refuge in time of trouble, <hi>Pſal.</hi> 9.9. This is enough to make all oppreſſours tremble.</p>
+            <p n="3">3. Becauſe they are Enemies to Gods Glory. And God will not give his Glory to another, nor his Praiſe to Graven Images, <hi>Iſa.</hi> 42.8.</p>
+            <p n="4">4. Becauſe they are cruel to Gods People and the Saints. Idolaters hate the true Worſhipers of God, and would root them out of the Earth. Their Enemies conſpired that the name of <hi>Iſrael</hi> might be no more remembred upon Earth: firſt the <hi>Egyptians,</hi> then the <hi>Canaanites,</hi> then the <hi>Babylonians</hi> would have utterly deſtroyed them; Yea the Children of <hi>Edom</hi> ſaid of <hi>Jeruſalem, Raſe it, raſe it, even to the Foundation thereof,</hi> Pſal. 137.7. or, Down with it, down with it, even to the Ground, as one tranſlation reads. See the deſolation of <hi>Jeruſalem,</hi> and the cruelty of their Enemies, <hi>Pſal.</hi> 79.1, &amp;c. Thus I have finiſhed the ſeveral things propoſed, for the illuſtration and exempli<g ref="char:EOLhyphen"/>fication of the Text. Let us conclude with Application.</p>
+            <pb n="25" facs="tcp:106174:15"/>
+            <p>The Leſſon ſhall be of Exhortation. My Bre<g ref="char:EOLhyphen"/>thren, let us be exhorted to take part with God and his true Church, againſt the Synagogue of Satan and his Followers. The Text ſuppoſes that you muſt be for us, or for our, Adverſaries. Ye muſt be for Proteſtants, or for Papiſts; for the Ark, or for <hi>Dagon;</hi> for God, or for <hi>Baal;</hi> for <hi>Iſ<g ref="char:EOLhyphen"/>raelites,</hi> or for <hi>Canaanites;</hi> for the <hi>Engliſh,</hi> or for the <hi>Iriſh</hi> and <hi>French.</hi> Therefore do like Wiſe Men and Good Chriſtians; Make a Parallel, and compare us and our Adverſaries, the Proteſtants and the Papiſts, and chooſe that ſide which agrees beſt with Reaſon and Scripture the Word of God.</p>
+            <p>The Papiſts teach us to deny our ſenſes, and tell us that Bread is turned into a God, tho' we ſee it and taſte it to be Bread; after the Prieſt hath ſaid the words, This is my Body, they Worſhip it, and then Eat it; A piece of ſervice that the very Heathens abhorred, to Eat the God whom they Worſhip. They teach us to Worſhip Images, and pray to Saints deceaſed, and a mul<g ref="char:EOLhyphen"/>titude of Fopperies, of which I make no queſti<g ref="char:EOLhyphen"/>on, you have often heard.</p>
+            <pb n="26" facs="tcp:106174:16"/>
+            <p>On the other ſide, the Proteſtants own all theſe, Senſe, Reaſon, Revelation, to have evi<g ref="char:EOLhyphen"/>dence in their own Sphere; not renouncing their Senſes, nor their Reaſon, tho' they have Faith in God, and believe all Divine Revelations. <hi>Solon,</hi> (as I have read) would have all Neuters in a Common-wealth branded with perpetual In<g ref="char:EOLhyphen"/>famy; and the reaſon is, Neutrality neither helps a Friend, nor hinders an Enemy: And it was an heinous Crime in the Church of <hi>Laodicea,</hi> to be neither Hot nor Cold, but Luke warm; for which God threatens to Spew them out of his Mouth, <hi>Rev.</hi> 3.16.</p>
+            <p>In ſhort, either the Proteſtant Religion, which we profeſs againſt the Papiſts, is the Truth, or not; If it be the Truth, then the Scripture ſays, <hi>Buy the Truth and ſell it not,</hi> Prov. 23.23. We cannot give too dear for theſe Truths. The Ho<g ref="char:EOLhyphen"/>ly Ghoſt complains, none pleadeth for the Truth, <hi>Iſa.</hi> 59.4. The Scriptures command us to love the Truth and Peace, <hi>Zech.</hi> 8.19. In order Truth is firſt. And Saint <hi>Jude, v.</hi> 3. exhorts us earneſtly to contend for the Faith which was once delivered to the Saints.</p>
+            <pb n="27" facs="tcp:106174:16"/>
+            <p>But eſpecially we abhor,
+<list>
+                  <item>1. The Popiſh Idolatry.</item>
+                  <item>2. Their breach of Promiſe.</item>
+                  <item>3. Their Perſecution and Cruelty.</item>
+               </list>
+            </p>
+            <p>As for their Idolatry in Worſhiping their Conſecrated Hoſt, Images, <hi>&amp;c.</hi> I have already diſcourſed of theſe. Therefore,</p>
+            <p n="2">2. We abhor their breach of Promiſe. It is too common with them to ſay that Faith is not to be kept with Hereticks: And hence no conſi<g ref="char:EOLhyphen"/>derate and wiſe Man will truſt them. And we have had experience of their acting according to this principle. The famous, learned and devout Proteſtant <hi>John Huſs</hi> was ruined by them, when he had a Protection and ſafe conduct granted by the Emperour; and upon it went to the Coun<g ref="char:EOLhyphen"/>cil of <hi>Conſtance;</hi> But (ſaith the famous Hiſtorian <hi>Sleidan</hi>) in three weeks time he was made a Pri<g ref="char:EOLhyphen"/>ſoner, and with <hi>Jerom</hi> of <hi>Prague,</hi> Burnt at a Stake: And the Council gave the Emperour this reaſon, No Promiſe was to be kept with Hereticks. Q.
+<pb n="28" facs="tcp:106174:17"/>
+               <hi>Mary</hi> promiſed that none of her Subjects ſhould be forced in Conſcience, that ſhe would in par<g ref="char:EOLhyphen"/>ticular preſerve to the <hi>Suffolk</hi> and <hi>Norfolk</hi> Goſ<g ref="char:EOLhyphen"/>pellers, as they were called in thoſe days (who had been ſo great Inſtruments in her advance<g ref="char:EOLhyphen"/>ment to the Throne) that Reformation begun in her Brother King <hi>Edwards</hi> days, for which they were zealous: And ſhe promiſed never to make any Innovation or Change of the then eſtabliſhed Reformed Religion, but would content her ſelf with the private exerciſe of her own Religion, as an ingenious man ſpeaks: But ſhe broke her Faith; with thoſe <hi>Suffolk</hi> Hereticks. And we found it thus in our days with our Engliſh Pa<g ref="char:EOLhyphen"/>piſts. As they imagined their Power increaſed (tho' God be thanked it was only imagination, for their Party was weak) all their Promiſes were as ſoon broken as made, and the weakeſt judgment plainly diſcerned their diſſimula<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="3">3. We abhor their Perſecution and Cruelty. They are of a moſt Perſecuting Spirit, and cruel Principles. They think they do God good ſervice, like the Jews who killed the Apoſtles
+<pb n="29" facs="tcp:106174:17"/>of Chriſt, when they burn Proteſtants at a Stake.</p>
+            <p>I will not ſay that the Pope is the Antichriſt mentioned in Scripture, nor the Whore of <hi>Baby<g ref="char:EOLhyphen"/>lon</hi> ſpoken of particularly in the 17 chap. of the <hi>Revelations,</hi> (tho' ſome learned Proteſtants of our own Church are of this opinion) becauſe I am of opinion that the Antichriſt is already come and paſt, and that Heathen <hi>Rome,</hi> full of Idols and Abominations, is literally meant by the Ho<g ref="char:EOLhyphen"/>ly Ghoſt; But Apoſtatized Chriſtian <hi>Rome</hi> acts the ſame part, or worſe over again; and may well be called the Scarlet Whore, or Myſtery <hi>Babylon</hi> the Great, the Mother of Harlots and Abominations of the Earth, <hi>ver.</hi> 5. becauſe ſhe hath been Drunk with the Blood of the Saints, and with the Bloud of the martyrs of Jeſus, <hi>v.</hi> 6. And the Pope and his adherents, his Cardinals, and Prieſts, and Jeſuits, make War with the Lamb (<hi>i.e.</hi> Chriſt, and his true and living Members;) and the Lamb (<hi>i.e.</hi> true and ſound Proteſtants ſhall be Inſtruments under Chriſt, and) ſhall overcome them: for he is Lord of Lords, and King of Kings; and they that are
+<pb n="30" facs="tcp:106174:18"/>with him are called, and choſen, and faithful, <hi>v.</hi> 14. The Papiſts have ſubtilty enough to pro<g ref="char:EOLhyphen"/>miſe fair, till they have power; But when they know or think themſelves ſtrong enough, no Profeſſors of any Religion can be more Cruel and Barbarous than they are. <hi>Luther</hi> (as I have read) warmed <hi>Melancthons</hi> Spirit, by a Letter a<g ref="char:EOLhyphen"/>bout the Common Cauſe, then moleſted by Pontifical Rage and <hi>Caeſars</hi> Fury. I have a quiet mind ſays he, about the publick cauſe, being aſſured that it is juſt, true, and unappaled; I fear not the fierce and cruel Papiſts; If we be overthrown, Chriſt ſhall be overthrown with us; and come what can, I had rather fall with Chriſt, than ſtand with <hi>Caeſar,</hi> We have Faſted, we have Prayed, we have conſulted with the God of Heaven, (I wiſh I could ſay the whole Nation had Reformed their lives) and I doubt not but he will anſwer us in due time with good and comfortable words, as the phraſe is <hi>Zech.</hi> 1.13. So then I hope that all Proteſtants are for us.</p>
+            <p>And if ye are for us, I will briefly mention the manner how ye ſhall be for us, that God may proſper and bleſs us all.</p>
+            <pb n="31" facs="tcp:106174:18"/>
+            <list>
+               <item>1. With your hearts. For if we have not your Hearts, you will deceive us, and upon the leaſt Temptation turn to our Adverſaries, or ſtand Neuter.</item>
+               <item>2. With your Tongues. You ought to ſpeak well of the Kings and Nations preſent cauſe, and ſtop the Mouths of adverſaries.</item>
+               <item>3. With your Hands. You ought to be active according to your ſtrength, and in your ſeveral Spheres, to promote the common good.</item>
+               <item>4. With your Purſes, as need may be: And indeed, Bleſſed be God, the whole Nation hath willingly contributed to this great work: And I believe ſo great Taxes were never payed with more chearfulneſs. And ſurely God will accept this labour of love.</item>
+            </list>
+            <p>Laſtly with your Prayers. This all may do, and all that fear God I hope will do. <hi>Moſes</hi> hand lift up in Prayer, and <hi>Joſhua</hi>'s ſtretched forth in Battel, make a Victorious Army. <hi>Preces noſtrae,
+<pb n="32" facs="tcp:106174:19"/>Bombardae noſtrae,</hi> ſays <hi>Luther,</hi> our Prayers are our Guns. Wherefore let us be encouraged to pray. Let us ſtrive with God in Prayer, while our Bre<g ref="char:EOLhyphen"/>thren are ſtriving with the Enemy in Battel. They venture their precious Lives for us, and endure great hardſhip; Shall not we pray? He is an un<g ref="char:EOLhyphen"/>worthy Member of the Church or Common-wealth, who hath not a Heart to pray now. The Poor indeed may ſay with Saint <hi>Peter, Silver and Gold have I none;</hi> But yet they may give ſuch as they have, even Prayers and Hearty Wiſhes, that God would be gracious and favourable to <hi>Sion,</hi> that he would preſerve our true Religion, that he would reſettle our diſtreſſed Proteſtant <hi>Iriſh</hi> Bre<g ref="char:EOLhyphen"/>thren, and that he would proſper his Anointed Servant in this great Undertaking, for the Honour of his Name, the Propagation of his Goſpel, and the laſting Happineſs of this Church and King<g ref="char:EOLhyphen"/>dom, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106174:19" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
